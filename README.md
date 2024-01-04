@@ -1,5 +1,4 @@
-<img src="![image](https://github.com/HassanShekih/HassanShekih/assets/155630386/c569b625-2dd9-4a50-b65a-4959646e7465)
-">
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*s80xLYgbrwbXgEuuDBR5mw.jpeg">
 <h1 align="center">Hi 👋, I'm HassanShekih</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
