@@ -1,4 +1,4 @@
-![image](https://github.com/HassanRaza0324/HassanSheikh0324/assets/155630386/eedb6472-5d93-4c61-911e-535850d9b5ba)<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*s80xLYgbrwbXgEuuDBR5mw.jpeg">
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*s80xLYgbrwbXgEuuDBR5mw.jpeg">
 <h1 align="center">Hi 👋, I'm HassanShekih</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" width="400px" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif">
